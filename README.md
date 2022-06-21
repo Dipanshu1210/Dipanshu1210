@@ -12,9 +12,8 @@
 
 - 📫 How to reach me **dipanshu.2023mca1140@kiet.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10hut9RTQL8BG3_hJvbWKkoLCxMCw1yke/view?usp=drivesdk](https://drive.google.com/file/d/10hut9RTQL8BG3_hJvbWKkoLCxMCw1yke/view?usp=drivesdk)
-
-- ⚡ Fun fact **I'm funny**
+- 📄 Know about my experiences https://drive.google.com/file/d/12pF0F1gdykP_HXxQYKcBOFla5LrfX5eW/view?usp=drivesdk
+- - ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
