@@ -7,9 +7,6 @@
 
 
 
-
-
-
 - 👨‍💻 All of my projects are available at [https://dipanshu1210.github.io/dipanshuvarshney](https://dipanshu1210.github.io/dipanshuvarshney)
 <br>https://calculator-using-html-css-js-1.dipanshuvarshne.repl.co/
 
