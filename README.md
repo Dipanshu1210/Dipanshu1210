@@ -74,9 +74,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-origina
 <br/>
 
 
-
-
-
 <img alt="Dipanshu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dipanshu1210&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 
 
